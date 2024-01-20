@@ -6,12 +6,7 @@
  Yungbar Grabber 
 </h1>
 
-<p align="center"> 
-  <kbd>
-<img src="[https://cdn.discordapp.com/attachments/1190333607441608745/1198350944551845898/yungbarwallet.png?ex=65be9649&is=65ac2149&hm=b4434eb0c8153bd130b781aed1c279d7897b8cdfcc7e60af7fb7f00542367fdb&]()" width="328"></img>
-  </kbd>
-</p>
-
+https://cdn.discordapp.com/attachments/1190333607441608745/1198350944551845898/yungbarwallet.png?ex=65be9649&is=65ac2149&hm=b4434eb0c8153bd130b781aed1c279d7897b8cdfcc7e60af7fb7f00542367fdb&
 <!DOCTYPE html>
 <html lang="en">
 <head>
