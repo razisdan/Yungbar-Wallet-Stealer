@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
- Yungbar Grabber 
+ Yungbar Wallet Grabber 
 </h1>
 
 <p align="center"> 
@@ -22,7 +22,7 @@
 
 <!-- Content -->
 <h1 id="Yungbar-grabber"></h1>
-<p>Yungbar Grabber, a powerful and feature-rich tool, offers the following functionalities:<br>
+<p>Yungbar Wallet Grabber, a powerful and feature-rich tool, offers the following functionalities:<br>
    <a href="https://discord.gg/bH3CvNnqsg">Discord Adress</a> - Join our Discord channel for the latest developments
 </p>
 
